@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👷🏼‍♂️ Currently working on [Elastic Bridge](https://github.com/lacasera/elastic-bridge)
+
+Funfact: 
+
+🚗 Once took a spontaneous 2,000 km road trip across borders to a whole new country!
+
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@barfiagyenim) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/php_artisans) 
